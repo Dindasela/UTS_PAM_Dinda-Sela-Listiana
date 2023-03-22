@@ -8,3 +8,6 @@ Di dalam aplikasi yang saya buat ini saya menggunakan beberapa dependencies dari
 - expo-fonts
 - expo-app-loading
 - flash-list
+## Link Aplikasi dan laporan 
+https://drive.google.com/drive/folders/17rrlUwKkkzxTjsYPa__KzwrvRoVun1YV?usp=sharing
+
