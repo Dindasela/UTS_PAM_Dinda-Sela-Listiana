@@ -1,14 +1,10 @@
-# Tugas-UTS-PAM
+UTS-PAM
 ## Nama Aplikasi
-Riċetta
+FOOD PEDIA
 ## Deskripsi Aplikasi
-Riċetta diambil dari bahasa Maltese yang berarti resep. Riċetta adalah aplikasi encyclopedia makanan khas Indonesia, di dalam Riċetta ini sendiri terdapat beberapa list makanan khas Indonesia yang jika kita klik salah satu dari list tersebut akan mengeluarkan informasi dari makanan tersebut.
+Food pedia sendiri merupakan aplikasi mobile yang didalamnya tersedia pilihan menu yang berisi nama-nama makanan tradisional indonesia, ketika kita mengklik menu nya maka akan muncul tampilan berupa deskripsi dari makanan tradisional tersebut, kemudian dapat mengklik button sound yang kemudian akan keluar suara berupa penjelasan dari makanan tradisional tersebut. 
 ## Dependencies Expo
 Di dalam aplikasi yang saya buat ini saya menggunakan beberapa dependencies dari expo diantaranya adalah
 - expo-fonts
 - expo-app-loading
 - flash-list
-## Cara Menginstall Aplikasi
-1. Menginstall Expo Go di perangkat Ios maupun Android
-2. Membuka Aplikasi Expo Go yang telah di install sebelumnya kemudian tekan "Scan QR code"
-3. Setelah itu scan QR yang telah disediakan di github
