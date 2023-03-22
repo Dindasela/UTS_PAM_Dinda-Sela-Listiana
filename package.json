@@ -1,0 +1,31 @@
+{
+  "name": "firstapp",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-navigation/native-stack": "^6.9.1",
+    "expo": "~46.0.13",
+    "expo-status-bar": "~1.4.0",
+    "react": "18.0.0",
+    "react-native": "0.69.6",
+    "expo-screen-orientation": "~4.3.0",
+    "expo-font": "~10.2.0",
+    "expo-app-loading": "~2.1.0",
+    "expo-splash-screen": "~0.16.2",
+    "@shopify/flash-list": "1.1.0",
+    "expo-av": "~12.0.4",
+    "react-native-web": "~0.18.7",
+    "react-dom": "18.0.0",
+    "@expo/webpack-config": "^0.17.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
